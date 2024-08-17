@@ -1,5 +1,8 @@
 package org.microhttp;
 
+import org.microhttp.log.LogEntry;
+import org.microhttp.log.Logger;
+
 import java.time.Duration;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;

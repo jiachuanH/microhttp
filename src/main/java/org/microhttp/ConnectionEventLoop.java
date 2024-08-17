@@ -1,5 +1,8 @@
 package org.microhttp;
 
+import org.microhttp.log.LogEntry;
+import org.microhttp.log.Logger;
+
 import static org.microhttp.CloseUtils.closeQuietly;
 
 import java.io.IOException;

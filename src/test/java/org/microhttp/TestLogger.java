@@ -1,5 +1,8 @@
 package org.microhttp;
 
+import org.microhttp.log.LogEntry;
+import org.microhttp.log.Logger;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;

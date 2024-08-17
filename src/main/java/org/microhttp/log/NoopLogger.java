@@ -1,4 +1,4 @@
-package org.microhttp;
+package org.microhttp.log;
 
 /**
  * A logger that is disabled and does not log anything.
